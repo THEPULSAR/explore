@@ -2,8 +2,8 @@
 items:
  - godotengine/godot
  - turbulenz/turbulenz_engine
- - GarageGames/Torque3D
- - GarageGames/Torque2D
+ - TorqueGameEngines/Torque3D
+ - TorqueGameEngines/Torque2D
  - spring/spring
  - cocos2d/cocos2d-x
  - Gamua/Starling-Framework
@@ -18,7 +18,6 @@ items:
  - CRYTEK/CRYENGINE
  - urho3d/Urho3D
  - benoit-dumas/OpenRTS
- - BearishSun/BansheeEngine
  - photonstorm/phaser
  - melonjs/melonJS
  - BabylonJS/Babylon.js
@@ -27,17 +26,31 @@ items:
  - playcanvas/engine
  - cocos2d/cocos2d-html5
  - craftyjs/Crafty
- - pixijs/pixi.js
+ - pixijs/pixijs
  - renpy/renpy
  - OpenRA/OpenRA
  - OpenRCT2/OpenRCT2
- - xenko3d/xenko
+ - stride3d/stride
  - lance-gg/lance
  - panda3d/panda3d
  - OpenXRay/xray-16
  - korlibs/korge
  - raysan5/raylib
  - amethyst/amethyst
+ - orx/orx
+ - nCine/nCine
+ - cocos-creator/engine
+ - love2d/love
+ - coronalabs/corona
+ - hajimehoshi/ebiten
+ - HaxeFoundation/haxe
+ - bevyengine/bevy
+ - Esenthel/EsenthelEngine
+ - aws/lumberyard
+ - FlaxEngine/FlaxEngine
+ - ObEngine/ObEngine
+ - KilledByAPixel/LittleJS
+ - ppy/osu-framework
 display_name: Game Engines
 created_by: leereilly
 ---

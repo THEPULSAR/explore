@@ -13,9 +13,9 @@ items:
  - PyCQA/flake8
  - psf/black
  - checkstyle/checkstyle
- - rubocop-hq/rubocop
+ - rubocop/rubocop
  - oclint/oclint
- - golang/lint
+ - dominikh/go-tools
  - ndmitchell/hlint
  - coala/coala
  - pre-commit/pre-commit
@@ -24,6 +24,11 @@ items:
  - koalaman/shellcheck
  - jimhester/lintr
  - testdouble/standard
+ - realm/SwiftLint
+ - replicatedhq/dockerfilelint
+ - mvdan/sh
+ - ansible-community/ansible-lint
+ - dotenv-linter/dotenv-linter
 display_name: Clean code linters
 created_by: holman
 ---

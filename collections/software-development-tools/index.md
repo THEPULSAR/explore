@@ -1,6 +1,6 @@
 ---
 items:
- - lelylan/betterspecs
+ - betterspecs/betterspecs
  - pengwynn/flint
  - mislav/rfc
  - peek/peek
@@ -12,6 +12,7 @@ items:
  - jenkinsci/jenkins
  - pybuilder/pybuilder
  - klaussinani/signale
+ - gitpod-io/gitpod
 display_name: Software development tools
 ---
 Build apps better, faster, stronger.

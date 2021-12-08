@@ -35,10 +35,9 @@ items:
 - gkz/LiveScript
 - IoLanguage/io
 - dlang/dmd
-- zdevito/terra
+- terralang/terra
 - dotnet/fsharp
 - skiplang/skip
-- FascinatedBox/lily
 - rakudo/rakudo
 - chapel-lang/chapel
 - lucee/Lucee
@@ -47,6 +46,18 @@ items:
 - ziglang/zig
 - HaxeFoundation/haxe
 - livecode/livecode
+- coq/coq
+- vlang/v
+- dart-lang/sdk
+- pharo-project/pharo
+- ring-lang/ring
+- SenegalLang/Senegal
+- cqfn/eo
+- ChavaScript/chavascript
+- DennisMitchell/jellylanguage
+- beefytech/Beef
+- cue-lang/cue
+- openjdk/jdk
 display_name: Programming languages
 created_by: leereilly
 ---
